@@ -1,0 +1,13 @@
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\bin\Debug\StateInfo.mdf
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\bin\Debug\StateInfo_log.ldf
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\bin\Debug\andrew_foster_cpt_206_lab_2.exe.config
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\bin\Debug\andrew_foster_cpt_206_lab_2.exe
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\bin\Debug\andrew_foster_cpt_206_lab_2.pdb
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.csproj.AssemblyReference.cache
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.Form1.resources
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.Properties.Resources.resources
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.csproj.GenerateResource.cache
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.exe
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.pdb
+C:\Users\amfos\OneDrive\Desktop\andrew_foster_cpt_206_lab_2\obj\Debug\andrew_foster_cpt_206_lab_2.searchForm.resources
