@@ -1,0 +1,3 @@
+The code compiles without any issue. There is also no dead code. One way this implementation is different from mine is that I used a datagrid in my main form, but the author of this project used a separate form.
+
+The "Sort" Button ignores all user input. This is because all the state attribute flags are reset to false before showing Form2, causing the form to initially fill the datagrid and subsequently fail all flag checks. Furthermore, the validation check for an empty textbox does not work; I don't have to provide any input at all other than clicking the button. I strongly believe that the code would be a lot more readable if the author wrote different methods to sort the datagrad rather than a single function that handles all possible scenarios.
